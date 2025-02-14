@@ -1,4 +1,4 @@
-The files in this folder contain the code used in the research article "The impact of energy prices on the electrification of utility systems in industries with fluctuating energy demand" by Svenja Bielefeld, Brendon de Raad, Marit van Lieshout, Lydia Stougie, Milos Cvetkovic and Andrea Ramirez.
+The files in this repository contain the code used in the research article "The impact of energy prices on the electrification of utility systems in industries with fluctuating energy demand" by Svenja Bielefeld, Brendon de Raad, Marit van Lieshout, Lydia Stougie, Milos Cvetkovic and Andrea Ramirez.
 
 A gurobi (or other solver's) licence is required to run the optimisation. 
 The optimisation is started from the "Modelruns.py" script and calls the functions in "functions.py". 
